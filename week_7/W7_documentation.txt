@@ -1,0 +1,10 @@
+Bug Found
+
+The program did not validate user input. If the user entered a negative price or quantity, the program still calculated the total payment.
+
+Fix
+Added input validation in food_order.py.
+Return "invalid price" if the price is less than 0.
+Return "invalid quantity" if the quantity is less than 0.
+Imported and called calculate_total() in main.py.
+Added PyTest test cases to verify the program works correctly.
