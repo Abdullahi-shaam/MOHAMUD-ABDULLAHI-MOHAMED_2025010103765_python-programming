@@ -34,4 +34,4 @@ receipt.py
 main.py
 README.md
 
-<video controls src="https://youtu.be/-qu1qQIjXtU" title=""></video>
+![Vedio DEMo](<20260715-0551-14.6202298-ezgif.com-video-to-gif-converter (2).gif>)
