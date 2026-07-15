@@ -33,5 +33,4 @@ customer.py
 receipt.py
 main.py
 README.md
-
-![Vedio DEMo](<20260715-0551-14.6202298-ezgif.com-video-to-gif-converter (2).gif>)
+![Demo vedio](Recording2026-07-15141356-ezgif.com-video-to-gif-converter.gif)
