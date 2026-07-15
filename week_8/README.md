@@ -33,3 +33,5 @@ customer.py
 receipt.py
 main.py
 README.md
+
+<video controls src="20260715-0551-14.6202298.mp4" title="demonstration"></video>
