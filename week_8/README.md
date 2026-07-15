@@ -34,4 +34,4 @@ receipt.py
 main.py
 README.md
 
-<video controls src="https://youtu.be/-qu1qQIjXtU" title="">Demo</video>
+<video controls src="https://youtu.be/-qu1qQIjXtU" title=""></video>
